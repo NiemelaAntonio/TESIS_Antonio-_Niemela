@@ -93,6 +93,10 @@ threshold_porbines.py:
 Toma los datos de Van Allen, y los binea, y guarda por cada uno de los bines su valor de media.
 
 
+prueba de posiciones.py:
+
+Toma los primeros datos crudos de Van Allen y los grafica para obtener la órbita de las sondas en coordenadas GSE y GEO. En GSE hace un corte XY y otro XZ.
+
 
 
 
