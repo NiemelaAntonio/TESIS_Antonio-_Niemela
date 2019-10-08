@@ -97,6 +97,8 @@ prueba de posiciones.py:
 
 Toma los primeros datos crudos de Van Allen y los grafica para obtener la órbita de las sondas en coordenadas GSE y GEO. En GSE hace un corte XY y otro XZ.
 
+Datos_GOES_descarga_Posta.py:
+Este es el programa que descarga los datos de NOAA y los guarda en un archivo. Cada 7 días se van borrando los datos. Se puede facilmente modificar para que no borre nada y genere una base de datos más extensa.
 
 
 
